@@ -1,4 +1,4 @@
-# Text and Image Processing Application
+# Weaviate Challenge
 
 This project is a web application built with Flask, providing functionalities for text and image processing. Users can upload text files and images, and the application offers three main features:
 
